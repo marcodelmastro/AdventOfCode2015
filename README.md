@@ -8,3 +8,4 @@ I did not participate to the challenge in 2015 (my first was in 2019) but in Jan
 
 * Day 1: 2020-01-05
 * Day 2: 2020-01-05
+* Day 3: 2020-01-05
