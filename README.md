@@ -4,7 +4,7 @@ My solutions to the [2015 Advent Of Code](https://adventofcode.com/2015) puzzles
 
 I did not participate to the challenge in 2015 (my first was in 2019) but in January 2020 I decided it would have been fun (and good practice) to try to solve them in my spare time.
 
-## Things I learned or noticed
+## Things I learned or noticed on the way
 
 * Puzzles seems easier then 2019 or 2020 (but let's wait for the finale!)
 * I got better at algorithms
