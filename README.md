@@ -32,7 +32,7 @@ I did not participate to the challenge in 2015 (my first was in 2019) but in Jan
 * Day 15: 2020-01-09
 * Day 16: 2020-01-10
 * Day 17: 2020-01-10
-* Day 18:
+* Day 18: 2020-01-11
 * Day 19:
 * Day 20:
 * Day 21:
