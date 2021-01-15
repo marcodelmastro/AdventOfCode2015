@@ -39,7 +39,9 @@ I did not participate to the challenge in 2015 (my first was in 2019) but in Jan
   * Part 2: 2020-02-13: toughest puzzle to date, final solution was trivial but I suspect it works only because of peculiarities of replacement "grammar".
 * Day 20: 2020-01-12
 * Day 21: 2020-01-12
-* Day 22:
+* Day 22: 
+  * Part 1: 2020-01-15: after many attempts and mauch bug hunting, I got a mana value that seems to satisfy Part 1
+  * Part 2: ... but Part 2, that seems to require a trivial modification, still returns an error :-(
 * Day 23: 2020-01-14
 * Day 24: 2020-01-14
 * Day 25: 2020-01-15
