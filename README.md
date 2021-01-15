@@ -6,11 +6,12 @@ I did not participate to the challenge in 2015 (my first was in 2019) but in Jan
 
 ## Things I learned or noticed on the way
 
-* Puzzles seems easier then 2019 or 2020 (but let's wait for the finale!)
-* I got better at algorithms!
+* Puzzles globally seemed easier then 2019 or 2020 (but maybe it's just me getting better at them?)
+* I did get better at algorithms!
 * I still suck at using rexexp, my scraping of the input files are often messier then they could be (even if I can now use better list comprehension)
 * `itertools` FTW!
 * Brute force can be the solution if the input is not too large (but not always!)
+* Worst day: 19 Part 2!
 
 
 ## ChangeLog
@@ -38,8 +39,8 @@ I did not participate to the challenge in 2015 (my first was in 2019) but in Jan
   * Part 2: 2020-02-13: toughest puzzle to date, final solution was trivial but I suspect it works only because of peculiarities of replacement "grammar".
 * Day 20: 2020-01-12
 * Day 21: 2020-01-12
-* Day 22
+* Day 22:
 * Day 23: 2020-01-14
-* Day 24:
-* Day 25:
+* Day 24: 2020-01-14
+* Day 25: 2020-01-15
 
