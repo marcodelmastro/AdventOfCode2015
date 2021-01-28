@@ -40,9 +40,12 @@ I did not participate to the challenge in 2015 (my first was in 2019) but in Jan
 * Day 20: 2020-01-12
 * Day 21: 2020-01-12
 * Day 22: 
-  * Part 1: 2020-01-15: after many attempts and mauch bug hunting, I got a mana value that seems to satisfy Part 1
-  * Part 2: ... but Part 2, that seems to require a trivial modification, still returns an error :-(
+  * Part 1: 2020-01-15: after many attempts and much bug hunting, I got a mana value that seems to satisfy Part 1...
+  * Part 2: 2020-01-28: modification of Part 1 seemed trivial but was not working with initial cose: I ultimately refactored the match simulation code eliminating all classes to allow easier debugging. Finding the time to do it was the most complicated part, re-implementing from scratch took about 30'...
 * Day 23: 2020-01-14
 * Day 24: 2020-01-14
 * Day 25: 2020-01-15
 
+![50 stars](./AOC2015_50stars.png "50 stars")
+
+![Santa!](./AOC2015_santa.png "Santa")
